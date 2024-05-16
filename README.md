@@ -1,17 +1,1 @@
-# cats_api
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cats_api_generate
+![Снимок экрана 2024-05-16 161914](https://github.com/FlutterCourse18/cats_api_generate/assets/103981549/003e5689-6ae9-49b9-a681-87096a44177c)
